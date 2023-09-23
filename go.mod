@@ -1,3 +1,3 @@
-module github.com/roerohan/wait-for-it
+module github.com/stevanmilic/wait-for-it
 
 go 1.17
